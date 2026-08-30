@@ -1,0 +1,7 @@
+0: 'Tomato___healthy', 
+1: 'Tomato___Early_blight', 
+2: 'Tomato___Late_blight',
+3: 'Potato___healthy',
+4: 'Potato___Early_blight',
+5: 'Potato___Late_blight',
+6: 'Unknown_Crop'

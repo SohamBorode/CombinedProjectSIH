@@ -1,0 +1,39 @@
+# Node
+node_modules/
+dist/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java / Maven
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+*.log.*.gz
+
+# Database files
+*.mv.db
+*.trace.db
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
